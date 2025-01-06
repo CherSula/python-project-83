@@ -149,7 +149,7 @@ wheels = [
 ]
 
 [[package]]
-name = "python-project-83"
+name = "hexlet-code"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
