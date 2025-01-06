@@ -5,9 +5,11 @@ description = "page-analyzer (project №3 on hexlet)"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "flake8>=7.1.1",
     "flask>=3.1.0",
     "gunicorn>=23.0.0",
     "python-dotenv>=1.0.1",
+    "ruff>=0.8.6",
 ]
 
 [dependency-groups]
